@@ -1,0 +1,18 @@
+header{
+    background-color: bisque;
+    text-align: center;
+    padding: 15px;
+    border-radius: 15px;
+}
+
+body{
+    color: white;
+    background-color: blanchedalmond;
+    text-align: justify;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+
+footer{
+    text-align: center;
+}
