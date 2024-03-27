@@ -1,5 +1,5 @@
 header{
-    background-color: bisque;
+    background-color: rgb(140, 189, 27);
     text-align: center;
     padding: 15px;
     border-radius: 15px;
@@ -8,9 +8,9 @@ header{
 
 body{
     color: rgb(0, 0, 0);
-    background-image: linear-gradient(to right, beige rgb(255, 184, 52));
+    background-image: linear-gradient(to right, white,rgb(255, 155, 6));
     text-align: justify;
-    font-family: sans-serif;
+    font-family:sans-serif;
     font-style: italic;
     font-size: 20px;
 }
